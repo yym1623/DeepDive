@@ -1,7 +1,7 @@
 # 모던 자바스크립트 Deep Dive
 
 ```text
-Vanilla Javascript에 대한 이해도를 높이자.
+Vanilla Javascript에 대한 이해도를 높이자
 
 1️⃣ JavaScript를 공부하면서 놓쳤던 부분
 2️⃣ 기술면접 질문으로 한번이라도 받아본 내용
